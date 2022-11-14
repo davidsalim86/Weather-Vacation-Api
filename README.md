@@ -8,13 +8,13 @@ To prove that the weather is hotter as we approach the equator
 ## Method
 
 - Generate a list of cities across the world with varying fistance from the equator randomly using numpy and citypy
-- Check the weather of the cities in the list using openWeatherMap API and save the data
+- Check the weather of the cities in the list using openWeatherMap API
 - Create scatter plots for the following:
     - Temperature (F) vs. Latitude
     - Humidity (%) vs. Latitude
     - Cloudiness (%) vs. Latitude
     - Wind Speed (mph) vs. Latitude
-- create linear regression for the following:
+- Create linear regression for the following:
     - Northern Hemisphere - Temperature (F) vs. Latitude
     - Southern Hemisphere - Temperature (F) vs. Latitude
     - Northern Hemisphere - Humidity (%) vs. Latitude
@@ -48,6 +48,6 @@ Use weather data in planning for vacation.
 - Use Google API to find hotels
 - Plot the hotels on top of the humidity heatmap with each marker containing the Hotel Name, City, and Country.
 
-## Heat map
+## Heat map with hotel marker
 
 ![hotel_marker_heatmap.png](Part-2-VacationPy/hotel_marker_heatmap.png) 
