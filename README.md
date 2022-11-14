@@ -2,7 +2,7 @@
 
 ## Aim
 
-To prove that the weather is hotter as we approach the equator
+To prove that the weather is hotter as we approach the equator.
 
 
 ## Method
@@ -27,11 +27,12 @@ To prove that the weather is hotter as we approach the equator
 
 ## Findings
 
-- There is strong relationship between latitude vs. temperature, r-value for latitude in Northern Hemisphere vs. temperature is less than -0.7, r-value for latitude in Southern Hemisphere vs. temperature is more than 0.7. The weather is warmer when the latitude is closer to 0.
-- There is no relationship between latitude vs. humidity, r-values are close to 0.
-- There is no relationship between latitude vs. cloudiness, r-values are close to 0. 
-- There is no relationship between latitude vs. wind speed, r-values are close to 0.
-- The above observations are based on weather data downloaded on 17 June 2022.
+- There is strong relationship between latitude vs. temperature, r-value for latitude in Northern Hemisphere vs. temperature is less than -0.7, r-value for latitude in Southern Hemisphere vs. temperature is more than 0.7
+- The weather is warmer when the latitude is closer to 0
+- There is no relationship between latitude vs. humidity, r-values are close to 0
+- There is no relationship between latitude vs. cloudiness, r-values are close to 0
+- There is no relationship between latitude vs. wind speed, r-values are close to 0
+- The above observations are based on weather data downloaded on 17 June 2022
 
 
 # Part 2: VacationPy
