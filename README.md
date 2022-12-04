@@ -34,7 +34,7 @@ To prove that the weather is hotter as we approach the equator.
 - There is no relationship between latitude vs. wind speed, r-values are close to 0
 - The above observations are based on weather data downloaded on 17 June 2022
 
-## Graph - latitude vs. temperature
+## Graph of latitude vs. temperature
 
 ![Fig1.png](Part-1-WeatherPy/Fig1.png) 
 
